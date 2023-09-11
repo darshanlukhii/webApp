@@ -1,0 +1,16 @@
+{
+    "material-icon-theme.hidesExplorerArrows": false,
+    "editor.hideCursorInOverviewRuler": false,
+    "workbench.editor.historyBasedLanguageDetection": true,
+    "C_Cpp.inlayHints.parameterNames.hideLeadingUnderscores": true,
+    "editor.minimap.autohide": false,
+    "workbench.editor.preferHistoryBasedLanguageDetection": false,
+    "zenMode.hideActivityBar": true,
+    "terminal.sourceControlRepositoriesKind": "integrated",
+    "notebook.diff.ignoreMetadata": false,
+    "notebook.diff.ignoreOutputs": false,
+    "peacock.squigglyBeGone": false,
+    "zenMode.hideLineNumbers": true,
+    "zenMode.hideStatusBar": true,
+    "zenMode.hideTabs": true
+}
