@@ -12,5 +12,5 @@
     "peacock.squigglyBeGone": false,
     "zenMode.hideLineNumbers": true,
     "zenMode.hideStatusBar": true,
-    "zenMode.hideTabs": true
+    "zenMode.showTabs": "single"
 }
